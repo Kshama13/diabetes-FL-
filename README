@@ -1,0 +1,10 @@
+Privacy-Preserving Diabetes and Heart Disease Prediction system 
+using FLWCO aims to accomplish the following objectives: 
+1. To collect, preprocess, and clean the diabetes dataset by handling missing values, 
+removing inconsistencies, and preparing the data for accurate disease prediction. 
+2. To implement multiple machine learning-based classification techniques for 
+accurate disease prediction. 
+3. To design and implement a Weighted Conglomeration Optimization (WCO) 
+mechanism to dynamically assign weights based on model performance. 
+4. To evaluate the performance of the proposed model using metrics such as accuracy, 
+precision, recall, and F1-score. 
